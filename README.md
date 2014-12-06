@@ -6,7 +6,7 @@ About the code
 ---
 The script maps each character from a text file to a shade of gray and save the result in a png file.
 
-You can see the result with test.png and decode.txt who are based on this readme file.  
+You can see the result with [message.png](https://github.com/StreetWanderer/LazyStegano/blob/master/message.png) and [decode.txt](https://github.com/StreetWanderer/LazyStegano/blob/master/decode.txt) who are based on this readme file.  
 
 
 Improvements
