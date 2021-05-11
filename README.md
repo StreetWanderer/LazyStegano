@@ -1,3 +1,8 @@
+MOVED
+====
+This repository is now hosted on GitLab. This version is archived and will be deleted in the future
+https://gitlab.com/streetwanderer/LazyStegano
+
 Lazy Stegano
 ==============
 Inspired by a discussion with [MichaelPaulukonis](https://github.com/MichaelPaulukonis) about using my [NanoGenmo algorithm](https://github.com/StreetWanderer/NaNoGenMo_2014) to create a steganography-like system that encode a text into an image.
